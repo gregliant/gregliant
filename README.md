@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gregliant
 - 👀 I’m interested in Data Science environment
-- 🌱 I’m currently learning at Data Science
+- 🌱 I’m currently learning at Data Science and Full stack Developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
